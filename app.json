@@ -5,6 +5,7 @@
     "name": "expo-rf-fe-ignite",
     "slug": "expo-rf-fe-ignite",
     "scheme": "expo-rf-fe-ignite",
+    "newArchEnabled": true,
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
@@ -18,9 +19,7 @@
       "fallbackToCacheTimeout": 0
     },
     "jsEngine": "hermes",
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "android": {
       "icon": "./assets/images/app-icon-android-legacy.png",
       "package": "com.exporffeignite",
